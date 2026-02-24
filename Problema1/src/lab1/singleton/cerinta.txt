@@ -1,0 +1,4 @@
+A.1. În cadrul aplicației de gestionare a spitalului există un modul care administrează internarea pacienților.
+Deoarece trebuie să existe o singură instanță a acestui modul la nivelul întregii aplicații, să se implementeze clasa care
+gestionează internările folosind pattern-ul Singleton.
+Modulul va permite adăugarea pacienților și afișarea listei acestora.
