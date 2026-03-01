@@ -1,0 +1,5 @@
+În cadrul aplicației unui restaurant există un registru central care ține evidența tuturor comenzilor.
+Pentru a asigura existența unei singure instanțe a registrului în întreaga aplicație, să se implementeze această clasă
+folosind pattern-ul Singleton.
+
+Cheie singleton un registru central.
