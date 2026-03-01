@@ -8,7 +8,7 @@ public class Main {
 
         registru1.adaugaPacient(new Pacient("Ana"));
         registru1.adaugaPacient(new Pacient("Ion"));
-
+        registru1.adaugaPacient(new Pacient("Maria"));
         registru2.afiseazaPacienti();
 
         System.out.println("Este aceeași instanță? " + (registru1 == registru2));
