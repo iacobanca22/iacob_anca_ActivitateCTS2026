@@ -1,4 +1,7 @@
-package lab2.singleton;
+package Singleton2.main;
+
+import Singleton2.restaurant.Comanda;
+import Singleton2.restaurant.RegistruComenzi;
 
 public class Main {
              public static void main(String[] args) {

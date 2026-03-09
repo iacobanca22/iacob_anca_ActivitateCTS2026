@@ -1,4 +1,8 @@
-package lab1.singleton;
+package singleton.main;
+
+import singleton.spital.Pacient;
+import singleton.spital.RegistruInternari;
+
 
 public class Main {
     public static void main(String[] args) {

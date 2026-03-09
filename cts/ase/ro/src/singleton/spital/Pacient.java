@@ -1,4 +1,4 @@
-package lab1.singleton;
+package singleton.spital;
 
 public class Pacient {
     private String nume;

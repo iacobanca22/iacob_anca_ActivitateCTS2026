@@ -1,4 +1,4 @@
-package lab2.singleton;
+package Singleton2.restaurant;
 import java.util.ArrayList;
 import java.util.List;
 public class RegistruComenzi {

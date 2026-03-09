@@ -1,7 +1,9 @@
-package lab1.singleton;
+package singleton.spital;
+
 
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class RegistruInternari {
 

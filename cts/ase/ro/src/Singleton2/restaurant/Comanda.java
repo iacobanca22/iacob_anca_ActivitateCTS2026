@@ -1,4 +1,4 @@
-package lab2.singleton;
+package Singleton2.restaurant;
 
 public class Comanda {
 private String denumire;
