@@ -1,0 +1,5 @@
+Restaurantul are un sistem centralizat de gestionare a plăților.
+Toate plățile efectuate de clienți sunt procesate printr-un singur modul
+de plată al restaurantului. Acest modul trebuie să existe într-o singură
+instanță în aplicație pentru a evita inconsistențele în procesarea plăților.
+Să se implementeze modulul de plată folosind Singleton Pattern.
