@@ -1,0 +1,3 @@
+A12.ADAPTAT.Spitalul dorește să implementeze un modul de notificări care informează pacienții despre apariția unor viruși sau
+epidemii în oraș. Sistemul trebuie să aibă un singur modul de notificări care gestionează lista pacienților abonați
+și trimite notificări către aceștia atunci când apare o situație de urgență.
