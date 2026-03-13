@@ -1,0 +1,29 @@
+O aplicație pentru gestionarea unei librării online permite crearea de obiecte de tip Carte.
+Crearea unui obiect Carte este costisitoare deoarece implică încărcarea mai multor informații
+(titlu, autor, editură, număr de pagini)
+
+Pentru a optimiza performanța aplicației, sistemul trebuie să permită crearea unor noi obiecte Carte prin copierea unor cărți existente.
+
+Astfel, dacă există deja o carte în sistem, se poate crea rapid o altă carte similară prin clonarea acesteia, iar ulterior se pot modifica anumite atribute (de exemplu titlul sau numărul de pagini).
+
+Cerințe
+
+Să se definească o interfață Prototype care declară metoda de copiere.
+
+Să se implementeze clasa Carte care conține informații despre o carte din librărie:
+
+titlu
+
+autor
+
+editura
+
+numarPagini
+
+Clasa Carte trebuie să implementeze interfața Prototype și să permită copierea obiectului.
+
+În metoda main, să se creeze o carte inițială.
+
+Să se creeze o copie a acestei cărți folosind mecanismul Prototype.
+
+Să se modifice o proprietate a copiei și să se afișeze ambele obiecte.
