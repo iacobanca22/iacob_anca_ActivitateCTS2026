@@ -1,0 +1,18 @@
+Enunț – Builder Pattern (Service Auto)
+
+O aplicație pentru gestionarea unui service auto permite crearea de pachete de servicii pentru mașini.
+
+Un pachet de service poate conține mai multe opțiuni, dar nu toate sunt obligatorii.
+
+Un pachet de service conține următoarele informații:
+
+numeClient (obligatoriu)
+
+tipMasina (obligatoriu)
+
+schimbUlei (true/false)
+
+spalareMasina (true/false)
+
+Pentru a evita constructori foarte mari și pentru a permite configurarea flexibilă a serviciilor,
+se cere implementarea pattern-ului Builder.
