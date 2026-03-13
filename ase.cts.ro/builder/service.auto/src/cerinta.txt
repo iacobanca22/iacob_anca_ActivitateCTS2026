@@ -15,4 +15,4 @@ schimbUlei (true/false)
 spalareMasina (true/false)
 
 Pentru a evita constructori foarte mari și pentru a permite configurarea flexibilă a serviciilor,
-se cere implementarea pattern-ului Builder.
+se cere implementarea pattern-ului Builder
