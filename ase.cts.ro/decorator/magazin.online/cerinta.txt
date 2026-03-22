@@ -1,0 +1,14 @@
+Un magazin online permite cumpărarea produselor, iar la final se generează o factură standard.
+Managerul dorește să adauge opțional funcționalități suplimentare la factură, precum:
+
+aplicarea unui discount
+adăugarea unui mesaj promoțional
+ambalare cadou (mențiune pe factură)
+
+Aceste funcționalități trebuie să poată fi combinate între ele și
+ adăugate fără modificarea clasei existente de factură.
+
+Să se implementeze modulul folosind un design pattern adecvat.
+
+
+Folosim decorator
