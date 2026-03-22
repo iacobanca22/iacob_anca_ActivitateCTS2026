@@ -1,0 +1,14 @@
+O aplicație de livrare generează un bon pentru fiecare comandă.
+Bonul conține informațiile standard despre produse și preț.
+
+Se dorește adăugarea unor funcționalități opționale la generarea bonului, precum:
+
+afișarea costului de livrare
+aplicarea unui cod de reducere
+adăugarea unui mesaj pentru client
+
+Aceste funcționalități trebuie să poată fi combinate între ele și adăugate fără modificarea clasei existente care generează bonul.
+
+Să se implementeze modulul folosind un design pattern adecvat.
+
+Folosim decorator, interfata va  folosi cuvantul cheie genereaza
