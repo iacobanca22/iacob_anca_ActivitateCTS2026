@@ -1,8 +1,0 @@
-Un restaurant utilizează un sistem vechi de facturare care funcționează prin metoda printeazaFactura().
-Restaurantul achiziționează un nou sistem pentru comenzile de la bar, care folosește metoda afiseazaBon().
-
-Se dorește ca noul sistem să fie compatibil cu cel vechi, fără modificarea codului existent.
-
-Să se implementeze o soluție folosind un design pattern adecvat.
-
-Folosim adapter avem un sistem vechi care foloseste metoda printeazaFactura() si un sistem nou care foloseste metoda afiseazaBon()
