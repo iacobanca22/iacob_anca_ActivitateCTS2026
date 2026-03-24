@@ -1,0 +1,20 @@
+O bibliotecă deține un sistem informatic propriu pentru gestionarea împrumutului
+de cărți fizice.În cadrul acestui sistem, obiectele de tip CarteBiblioteca oferă metoda
+imprumutaCarte(), care include verificarea abonamentului utilizatorului prin apelul metodei
+ verificaAbonament(). Astfel, o carte poate fi împrumutată doar dacă utilizatorul are un
+ abonament valid.
+
+Biblioteca încheie un parteneriat cu o platformă online de distribuție a cărților digitale.
+ Această platformă utilizează un sistem diferit, în care obiectele de tip CarteOnline pun
+ la dispoziție metoda descarcaCarte(). În cadrul acestui sistem, nu se face verificarea
+ abonamentului, deoarece utilizatorii pot descărca cărți fără restricții.
+
+Se dorește integrarea celor două sisteme, astfel încât platforma online să poată utiliza
+obiectele din sistemul bibliotecii, fără a modifica clasele existente din aplicația
+bibliotecii.
+
+Dezvoltatorii trebuie să implementeze o soluție care să permită utilizarea obiectelor
+de tip CarteBiblioteca în contextul sistemului online, respectând principiile de
+proiectare și fără a altera codul existent.
+
+Să se implementeze modulul folosind un design pattern adecvat.
