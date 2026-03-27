@@ -1,0 +1,15 @@
+O cofetărie oferă servicii pentru realizarea comenzilor de torturi personalizate.
+Pentru a finaliza o comandă, sistemul trebuie să verifice disponibilitatea ingredientelor, să pregătească tortul și să organizeze livrarea.
+
+Sistemul este împărțit în mai multe clase:
+
+StocIngrediente – verifică dacă există ingrediente suficiente
+Bucatar – pregătește tortul
+Livrare – livrează comanda
+
+Se dorește simplificarea procesului de comandă astfel încât clientul să poată apela o singură metodă pentru realizarea întregii comenzi, fără a interacționa direct cu clasele existente.
+
+Să se implementeze o soluție folosind un design pattern adecvat.
+
+
+Cuvantul cheie -> simplificarea procesului folosim Facade
