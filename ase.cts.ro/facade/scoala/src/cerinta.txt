@@ -1,0 +1,14 @@
+În cadrul unei școli, pentru înscrierea unui elev într-o clasă, trebuie realizate mai multe verificări:
+
+verificarea existenței locurilor libere în clasă
+verificarea situației școlare a elevului
+verificarea achitării taxelor
+
+În prezent, secretara trebuie să realizeze aceste verificări separat, apelând metode din clase diferite.
+
+Conducerea școlii dorește implementarea unui modul care să simplifice acest proces, astfel încât secretara să poată verifica toate condițiile printr-un singur apel de metodă.
+
+Să se implementeze soluția folosind un design pattern adecvat.
+
+
+Se doreste simplificare, avem metodle desemnate, folosim Facade
