@@ -1,0 +1,15 @@
+Se dorește implementarea unui sistem de imprimare pentru documente.
+
+Un document de bază poate fi imprimat simplu (text standard).
+
+În funcție de cerințe, documentul poate fi extins cu următoarele funcționalități:
+
+imprimare color (modifică modul de imprimare)
+adăugare watermark (modifică conținutul imprimat)
+imprimare duplex (față-verso) (modifică comportamentul existent)
+
+De asemenea, sistemul trebuie să permită:
+
+salvarea documentului într-un fișier PDF (funcționalitate nouă)
+
+Toate aceste funcționalități trebuie adăugate dinamic, fără modificarea clasei de bază.
