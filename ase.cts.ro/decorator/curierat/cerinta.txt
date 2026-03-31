@@ -1,0 +1,18 @@
+Se dorește implementarea unui sistem pentru livrarea comenzilor online.
+
+O livrare de bază conține doar transport standard și poate calcula costul total și afișa detaliile livrării.
+
+În funcție de opțiunile clientului, livrarea poate fi extinsă cu:
+
+livrare rapidă (modifică costul și descrierea)
+livrare în weekend (modifică doar descrierea)
+asigurare colet (modifică costul)
+
+De asemenea, sistemul trebuie să permită:
+
+urmărirea coletului (tracking) — funcționalitate nouă
+
+Toate aceste funcționalități trebuie adăugate dinamic,
+fără modificarea clasei de bază.
+
+interfata va returna String pentru descriere si double pentru cost.
