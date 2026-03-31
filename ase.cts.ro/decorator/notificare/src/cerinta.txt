@@ -1,0 +1,10 @@
+Se dorește implementarea unui sistem de notificări.
+O notificare de bază trimite un mesaj simplu.
+
+În funcție de nevoie, notificarea poate fi extinsă cu:
+
+trimitere prin SMS
+trimitere prin Email
+trimitere prin WhatsApp
+
+Aceste funcționalități trebuie adăugate dinamic, fără modificarea clasei de bază.
