@@ -1,0 +1,17 @@
+Se dorește implementarea unui sistem pentru gestionarea produselor vândute
+într-o brutărie.Un produs de bază (ex: pâine simplă) poate afișa denumirea și prețul.
+În funcție de preferințele clientului, produsul poate avea funcționalități suplimentare:
+
+adăugare semințe
+adăugare topping (ciocolată, gem)
+ambalare premium
+
+Aceste funcționalități trebuie să fie adăugate dinamic,
+fără a modifica clasa produsului de bază.Sistemul trebuie să permită combinarea mai
+multor opțiuni (ex: pâine + semințe + ambalare premium).
+
+Folosim decorator si avem un produs de baza pe care il vom imbraca dandu-i
+functionalizati noi.
+
+componenta trebuie sa afiseze numele si pretul.Fiind vorba doar de
+combinare de optiuni si nu afisare interfata va folosi metode dedicate
