@@ -1,0 +1,20 @@
+Se dorește implementarea unui sistem pentru spălarea completă a unei mașini.
+
+Pentru a efectua serviciul complet, sunt implicate următoarele subsisteme:
+
+verificarea tipului de mașină (SUV, Sedan etc.)
+spălarea exterioară
+curățarea interioară
+aplicarea de ceară
+emiterea bonului fiscal
+
+Fiecare subsistem trebuie să gestioneze informații proprii:
+
+mașină: tip, număr de înmatriculare
+spălare: tip spălare (standard, premium)
+ceară: tip ceară
+
+Clientul nu trebuie să interacționeze direct cu aceste subsisteme,
+ci doar să apeleze o metodă simplă pentru efectuarea serviciului complet.
+
+Se cere implementarea folosind un design pattern adecvat.
