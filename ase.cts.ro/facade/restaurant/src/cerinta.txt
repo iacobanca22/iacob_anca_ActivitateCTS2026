@@ -1,0 +1,14 @@
+Se dorește implementarea unui sistem pentru plasarea comenzilor într-un restaurant.
+
+Pentru a finaliza o comandă, trebuie realizate următoarele operații:
+
+verificarea disponibilității mesei
+pregătirea preparatelor în bucătărie
+emiterea bonului fiscal
+notificarea ospătarului pentru servire
+
+Clientul nu trebuie să interacționeze direct cu aceste subsisteme,
+ci doar să plaseze comanda printr-o metodă simplă.
+
+Se cere implementarea unui sistem care să simplifice aceste operații folosind
+ un design pattern adecvat.
