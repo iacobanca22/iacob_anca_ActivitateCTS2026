@@ -21,5 +21,9 @@ public class MainLivrare {
        System.out.println(livrare.descriere());
        System.out.println(livrare.cost());
 
+       ((DecoratorAbstractLivrare) livrare).tracking();
+
+
+
     }
 }
