@@ -1,0 +1,16 @@
+Se dorește implementarea unui sistem pentru gestionarea comenzilor într-o tipografie.
+
+O comandă poate conține:
+
+produse simple (ex: flyer, carte de vizită, afiș)
+grupuri de produse (ex: pachet promoțional)
+
+Un grup de produse poate conține:
+
+alte produse simple
+alte grupuri de produse
+
+Se cere implementarea unui sistem care să permită afișarea tuturor produselor
+dintr-o comandă într-un mod unitar.
+
+Folosim composite avem produs simplu + grup de produse
