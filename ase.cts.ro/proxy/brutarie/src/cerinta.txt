@@ -1,0 +1,6 @@
+O brutărie oferă posibilitatea clienților de a comanda produse (pâine, croissante,
+ prăjituri etc.).Managerul dorește ca comenzile online să fie acceptate doar dacă
+ valoarea totală a comenzii este de minimum 50 lei.
+În cazul în care valoarea este mai mică, comanda nu este acceptată și se afișează
+un mesaj corespunzător.Să se implementeze un modul care să controleze realizarea
+comenzilor fără a modifica clasa existentă care procesează comenzile.
