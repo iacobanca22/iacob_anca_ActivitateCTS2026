@@ -1,0 +1,8 @@
+O farmacie permite achiziționarea medicamentelor.
+
+Managerul decide că anumite medicamente pot fi cumpărate doar dacă clientul are rețetă.
+
+În cazul în care clientul nu are rețetă, achiziția este refuzată.
+
+Să se implementeze un modul care să controleze accesul la cumpărarea medicamentelor
+fără a modifica clasa existentă.
