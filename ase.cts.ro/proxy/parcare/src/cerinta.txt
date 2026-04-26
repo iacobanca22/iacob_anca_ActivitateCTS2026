@@ -1,0 +1,9 @@
+O parcare privată permite accesul mașinilor.
+
+Managerul stabilește că în parcare pot intra doar mașinile care au abonament valid.
+
+Dacă o mașină nu are abonament, accesul este refuzat și se afișează un mesaj corespunzător.
+
+Să se implementeze un modul care să controleze accesul mașinilor în parcare
+fără a modifica clasa existentă  care gestionează intrarea în parcare.
+
