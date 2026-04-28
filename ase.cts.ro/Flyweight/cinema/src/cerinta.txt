@@ -1,0 +1,12 @@
+Se dorește implementarea unui sistem pentru gestionarea locurilor dintr-un cinema.
+
+Există foarte multe locuri în sală, dar ele au aceleași caracteristici:
+rândul și tipul locului (VIP, Standard).
+
+Pentru a economisi memorie, aceste caracteristici trebuie reutilizate.
+
+În schimb, pentru fiecare rezervare există informații diferite,
+precum numele clientului și ora rezervării.
+
+intrinsec:rand, tiploc
+extrinsec: numele clientului si ora rezervarii
