@@ -1,0 +1,12 @@
+Se dorește implementarea unui sistem pentru gestionarea mijloacelor de transport
+într-un oraș (autobuze).
+
+Există multe autobuze care circulă pe aceleași linii, având aceleași caracteristici
+(linie, tip autobuz, capacitate).Pentru a reduce consumul de memorie, aceste
+caracteristici trebuie reutilizate.
+
+În schimb, fiecare autobuz are informații diferite, precum ora plecării
+și numărul de pasageri, care trebuie tratate separat.
+
+Elemente comune intrisec: linie, tip autobuz, capacitate
+Elemenet diferite extrinsec:ora plecare, numar pasageri
