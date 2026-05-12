@@ -1,0 +1,10 @@
+Avem
+un bec
+o telecomandă
+
+Telecomanda trebuie să poată:
+
+aprinde becul
+stinge becul
+
+Folosind Command Pattern.
