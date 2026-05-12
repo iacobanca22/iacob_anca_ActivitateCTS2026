@@ -1,0 +1,13 @@
+Un restaurant dorește să implementeze un sistem de notificări pentru clienții fideli.
+
+Clienții se pot abona pentru a primi notificări atunci când:
+
+apare un meniu nou
+există reduceri speciale
+apare un desert nou
+
+Să se implementeze patternul Observer astfel încât:
+
+restaurantul să poată adăuga și elimina clienți abonați
+toți clienții să primească notificările automat
+să existe cel puțin două tipuri de notificări
