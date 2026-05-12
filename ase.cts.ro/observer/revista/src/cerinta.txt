@@ -1,0 +1,15 @@
+O editură publică o revistă de bricolaj numită „DIY Expert”.
+
+Persoanele interesate se pot abona pentru a primi notificări atunci când:
+
+apare un număr nou al revistei
+există o ediție specială
+apar reduceri la abonamente
+
+Fiecare abonat trebuie notificat automat printr-un mesaj.
+
+Să se implementeze patternul Observer astfel încât:
+
+editura să poată adăuga și elimina abonați
+toți abonații să primească notificări
+să existe cel puțin două tipuri de notificări
