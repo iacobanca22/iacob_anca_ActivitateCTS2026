@@ -1,0 +1,16 @@
+Se dorește implementarea unui sistem pentru controlul unei boxe muzicale folosind patternul comportamental Command.
+
+O telecomandă trebuie să poată:
+
+porni muzica
+opri muzica
+
+fără să cunoască detalii despre implementarea boxei.
+
+identificam rolurile:
+1.receiver-boxa
+2.receiver concret -boxa concreta
+3.command - comanda
+4.comanda concreta deschde boxa
+5.comanda concreta inchide boxa
+6.invoker telecomanda
