@@ -1,0 +1,21 @@
+O bancă dorește să proceseze cererile de împrumut ale clienților. Fiecare client
+are un venit lunar și un scor de credit (care poate lipsi).
+Banca are trei tipuri de analiști:
+
+Analistul junior — poate aproba împrumuturi doar dacă clientul are un venit lunar
+ mai mare de 3000 RON
+Analistul senior — poate aproba dacă clientul are un scor de credit valid (nenul)
+Directorul — dacă niciun analist nu a putut aproba, respinge cererea și afișează un mesaj
+
+Creează clasele necesare și în main simulează trei clienți:
+
+un client cu venit 4000 RON și fără scor de credit
+un client cu venit 2000 RON și cu scor de credit valid
+un client cu venit 2000 RON și fără scor de credit
+
+handler abstract analist
+handler analist junior
+handler analist senior
+handler director
+
+clasa client va avea urmatoare campuri nume, venit, scorCredit
