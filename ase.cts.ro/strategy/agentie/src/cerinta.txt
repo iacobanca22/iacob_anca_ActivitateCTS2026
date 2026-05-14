@@ -1,0 +1,8 @@
+O agenție de turism transportă clienți la aeroport. Fiecare client poate alege modul de transport:
+
+Taxi — afișează "clientul merge cu taxiul la aeroport"
+Uber — afișează "clientul merge cu Uber-ul la aeroport"
+Autobuz — afișează "clientul merge cu autobuzul la aeroport"
+
+Creează clasele necesare și în main simulează un client care mai întâi alege Taxi,
+apoi se răzgândește și alege Uber.
