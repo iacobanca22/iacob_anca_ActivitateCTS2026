@@ -1,0 +1,10 @@
+O bancă permite clienților să efectueze operațiuni asupra contului lor bancar.
+Un client poate:
+
+Depune o sumă de bani în cont
+Retrage o sumă de bani din cont
+
+Banca are un casier care preia operațiunile și le execută.
+Fiecare cont bancar are un IBAN și un sold.
+Creează clasele necesare și în main simulează un cont bancar
+care face o depunere de 500 RON și o retragere de 200 RON.
