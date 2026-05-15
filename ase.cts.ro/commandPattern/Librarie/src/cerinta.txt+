@@ -1,0 +1,12 @@
+O librărie permite angajaților să gestioneze cărțile din stoc. Un angajat poate:
+
+Adaugă o carte în stoc
+Șterge o carte din stoc
+
+Fiecare carte are un titlu și un preț. Sistemul trebuie să permită anularea ultimelor operațiuni efectuate.
+Creează clasele necesare și în main simulează:
+
+adaugă cartea "Ion" la 35 RON
+adaugă cartea "Mara" la 25 RON
+șterge cartea "Ion"
+anulează ultima operațiune (undo)
