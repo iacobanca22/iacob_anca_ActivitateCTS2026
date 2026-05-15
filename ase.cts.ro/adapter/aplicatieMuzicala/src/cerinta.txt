@@ -1,0 +1,5 @@
+O aplicație de muzică are un sistem intern care lucrează cu piese muzicale
+care au titlu și durata (în secunde) și poate reda() și descrie() o piesă.
+Se dorește integrarea unui sistem extern de streaming care are melodii cu
+nume, artist și durata (în format "3:45" — minute:secunde) și poate play() și getInfo().
+Creează clasele necesare astfel încât planificatorul intern să poată folosi melodiile externe ca și cum ar fi piese muzicale interne.
